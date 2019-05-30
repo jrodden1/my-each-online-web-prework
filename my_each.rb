@@ -9,7 +9,7 @@ def my_each(words)
       binding.pry
       i = i + 1
     end
-    
+
     binding.pry
   end
   words
