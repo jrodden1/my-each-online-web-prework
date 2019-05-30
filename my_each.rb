@@ -10,6 +10,7 @@ def my_each(words)
   words
 end
 
+
 words = ['arel', 'jon', 'logan', 'spencer']
 my_each(words) do |word|
   puts word
