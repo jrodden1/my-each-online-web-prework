@@ -1,4 +1,6 @@
-def my_each(array)
+def my_each(array) do |word|
+  puts word
+end
   if array.length != 0
     i = 0
 
