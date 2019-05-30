@@ -1,7 +1,4 @@
-def my_each(array) do |word|
-  puts word
-  word
-end
+def my_each(array) { |word| puts word}
   if array.length != 0
     i = 0
 
