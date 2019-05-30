@@ -5,7 +5,7 @@ def my_each(words)
 
     while i < words.length
       binding.pry
-      yield[i]
+      yield words[i]
       binding.pry
       i = i + 1
     end
