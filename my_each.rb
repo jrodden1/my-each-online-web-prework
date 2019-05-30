@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each(words)
   if block_given?
     i = 0
 
@@ -7,5 +7,5 @@ def my_each(array)
       i = i + 1
     end
   end
-  array
+  words
 end
