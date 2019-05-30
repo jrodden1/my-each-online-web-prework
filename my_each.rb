@@ -9,3 +9,6 @@ def my_each(words)
   end
   words
 end
+
+words = ['arel', 'jon', 'logan', 'spencer']
+my_each()
