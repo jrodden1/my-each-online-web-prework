@@ -12,7 +12,6 @@ end
 
 
 words = ['arel', 'jon', 'logan', 'spencer']
-my_each(words) do |word|
+words.my_each do |word|
   puts word
-  word
 end
