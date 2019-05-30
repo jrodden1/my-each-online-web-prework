@@ -10,7 +10,7 @@ def my_each(words)
   words
 end
 
-words = ['arel', 'jon', 'logan', 'spencer']
-words.my_each do |i|
-  puts i
-end
+# words = ['arel', 'jon', 'logan', 'spencer']
+# words.my_each do |i|
+#   puts i
+# end
