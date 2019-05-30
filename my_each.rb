@@ -9,8 +9,8 @@ def my_each(words)
       binding.pry
       i = i + 1
     end
-    words
+    
     binding.pry
   end
-
+  words
 end
