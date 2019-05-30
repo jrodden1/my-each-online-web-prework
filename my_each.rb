@@ -8,5 +8,5 @@ def my_each(words)
       words
     end
   end
-  
+
 end
