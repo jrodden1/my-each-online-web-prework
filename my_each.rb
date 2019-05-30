@@ -11,7 +11,3 @@ def my_each(words)
 end
 
 
-words = ['arel', 'jon', 'logan', 'spencer']
-words.my_each do |word|
-  puts word
-end
