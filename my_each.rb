@@ -5,8 +5,8 @@ def my_each(words)
     while i < words.length
       yield[i]
       i = i + 1
-      words
     end
+    words
   end
 
 end
